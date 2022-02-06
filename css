@@ -1,0 +1,28 @@
+body{
+  text-align: center;
+  font: 15px Helvetica, sans-serif;
+  background-image: url('https://i.ibb.co/fX6GGqP/Depositphotos-71594611-XL.jpg');
+  color: white;
+}
+
+h1{
+ border: groove;
+ color: white;
+ background-color: rgba(80,0,100,.5);
+  margin: 50px 300px 50px 300px
+}
+
+#description{
+  margin: 50px 300px 50px 300px;
+  padding:10px 10px 10px 10px;
+  background-color: rgba(80,0,100,.5);
+  border: groove;
+}
+
+div {
+  border: 2px groove;
+  padding: 5px;
+  background: rgba(80,0,100,.5);
+  margin: 0px 500px 0px 500px;
+  text-align: center;
+}
